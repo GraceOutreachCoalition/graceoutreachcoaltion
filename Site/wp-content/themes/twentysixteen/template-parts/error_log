@@ -1,0 +1,4 @@
+[27-Oct-2018 13:34:27 America/New_York] PHP Fatal error:  Call to undefined function _e() in /home/graceout/public_html/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[27-Oct-2018 21:39:57 America/New_York] PHP Fatal error:  Call to undefined function apply_filters() in /home/graceout/public_html/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[05-Dec-2018 04:26:22 America/New_York] PHP Fatal error:  Call to undefined function the_id() in /home/graceout/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 04:13:11 America/New_York] PHP Fatal error:  Call to undefined function the_id() in /home/graceout/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

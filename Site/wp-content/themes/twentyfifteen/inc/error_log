@@ -1,0 +1,5 @@
+[25-Oct-2018 23:02:11 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/graceout/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 03:06:47 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/graceout/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 07:57:10 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/graceout/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 12:17:17 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/graceout/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[26-Oct-2018 19:24:01 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/graceout/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

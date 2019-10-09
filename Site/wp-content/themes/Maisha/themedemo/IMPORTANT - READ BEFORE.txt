@@ -1,0 +1,31 @@
+Theme Demo Setup:
+
+Install the theme installation zip "maishawp.zip" by going to Appearance->Themes->Add New->Upload Theme
+
+To import demo content from the live preview, you first need to install the plugins we used with the theme demo:
+
+1. BuddyPress: https://buddypress.org/">https://buddypress.org/ - run your own social network
+2. bbPress: https://bbpress.org/ - forums made the WordPress way
+3. Contact Form 7: https://wordpress.org/plugins/contact-form-7/ - contact form
+4. Give: https://wordpress.org/plugins/give/ - empower your cause: start accepting donations on WordPress with Give.
+5. The Events Calendar: https://wordpress.org/plugins/the-events-calendar/ - plugin that lets you easily share your events.
+6. Soliloquy Slider plugin can be found inside the <strong>plugins</strong> folder within the main folder you downloaded
+7. WooCommerce: http://wordpress.org/plugins/woocommerce/ - create your own shop
+8. Widget Visibility: https://wordpress.org/plugins/widget-visibility/
+
+After you installed and activated plugins above you can start importing the demo content.
+
+1. Content Demo: maishademo.wordpress.2015-05-28.xml - to import demo content navigate to the Tools - Import and import this file
+
+2. Widget Settings: www.anariel.com-maishademo-widgets.wie - to import widget content please install: https://wordpress.org/plugins/widget-importer-exporter/ activate the plugin and navigate to the Tools - Widget Settings Import and import this file. Make sure to remove the default widgets from widget areas before importing.
+
+3. Customizer Settings: maishawp-export.dat - to import Customizer settings please install: https://wordpress.org/plugins/customizer-export-import/ and activate it. Navigate to the Customizer - Export/Import and import this file.
+
+After you imported content there are a couple of settings that are needed to be done manually:
+
+1. In Settings->Reading select "A static page" and from drop downs choose for the front page "Front Page" and for posts page "Blog"
+2. In WooCommerce->Settings->Products->Display select "Shop" to be your "Shop Page"
+3. In Events Calendar->Settings->Display select "Events Page" from the "Events Template" drop down
+4. In Settings->BuddyPress select all boxes
+
+This is it! You can remove the three plugins used to import content, widgets and customizer.

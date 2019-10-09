@@ -1,0 +1,2 @@
+[31-Oct-2018 03:46:11 America/New_York] PHP Fatal error:  Call to undefined function is_admin() in /home/graceout/public_html/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[04-Nov-2018 06:29:49 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/graceout/public_html/wp-content/themes/twentysixteen/inc/customizer.php on line 61
